@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cezasistemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="geckalankitaplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kitapekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kitapguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kitaplistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kitapsil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kitapver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenci_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenci_guncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenci_listele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ogrenci_sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
